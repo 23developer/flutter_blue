@@ -95,6 +95,7 @@ const BluetoothDevice$json = const {
     const {'1': 'remote_id', '3': 1, '4': 1, '5': 9, '10': 'remoteId'},
     const {'1': 'name', '3': 2, '4': 1, '5': 9, '10': 'name'},
     const {'1': 'type', '3': 3, '4': 1, '5': 14, '6': '.BluetoothDevice.Type', '10': 'type'},
+    const {'1': 'rssi', '3': 4, '4': 1, '5': 5, '10': 'rssi'},
   ],
   '4': const [BluetoothDevice_Type$json],
 };
